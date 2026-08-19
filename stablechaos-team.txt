@@ -1,6 +1,6 @@
 # TeamCrypt roster
 # team: stablechaos
-# version: 2
+# version: 3
 # updated: 2026-08-19
 
 age1yubikey1qvds7fkxfcnezx4wzqujea2ydfx4f83rrdwrq2hjja0h7s9u6tvnszykvt3 # Hunter
