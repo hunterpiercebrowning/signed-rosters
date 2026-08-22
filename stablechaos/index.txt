@@ -1,0 +1,6 @@
+# TeamCrypt index
+# company: stablechaos
+# version: 1
+# updated: 2026-08-21
+958a441162573939b1ec65725c4eb073
+55ac44e90194d10c179620eb8fb6a317
